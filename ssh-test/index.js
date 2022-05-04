@@ -2,7 +2,7 @@ const x = 123;
 const y = 2;
 
 const cars = [{name: "red car"}, 
-{name: "blue car"}, {name: "yellow car"};
+{name: "blue car"}, {name: "yellow car"}];
 const isFueled = true;
 
 function gasStation() {
